@@ -2,17 +2,18 @@ GitHub Pages doesn’t support routers that use the HTML5 pushState history API 
 
 In this website I am using news apis, loading spinner top, loading navbar and much more
 
-Newslance Website look like
+# Newslance Website look like
 
+# Here spinner is moving and It fetching news Posts from News api
 ![alt text](https://github.com/rehmange/newslance/blob/main/1.png?raw=true)
-2
+# Business News Loadin Navbar 
 ![alt text](https://github.com/rehmange/newslance/blob/main/2.png?raw=true)
-3
+# General News
 ![alt text](https://github.com/rehmange/newslance/blob/main/3.png?raw=true)
-4
+# Entertainment News
 ![alt text](https://github.com/rehmange/newslance/blob/main/4.png?raw=true)
-5
+# Technology
 ![alt text](https://github.com/rehmange/newslance/blob/main/5.png?raw=true)
-6
+# at the end here is showing us a infinite loader
 ![alt text](https://github.com/rehmange/newslance/blob/main/6.png?raw=true)
 
