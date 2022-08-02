@@ -4,9 +4,9 @@ In this website I am using news apis, loading spinner top, loading navbar and mu
 
 # Newslance Website look like
 
-# Here spinner is moving and It fetching news Posts from News api
+# Here spinner is moving,Loading Navbar and It fetching news Posts from News api
 ![alt text](https://github.com/rehmange/newslance/blob/main/1.png?raw=true)
-# Business News Loadin Navbar 
+# Business News  
 ![alt text](https://github.com/rehmange/newslance/blob/main/2.png?raw=true)
 # General News
 ![alt text](https://github.com/rehmange/newslance/blob/main/3.png?raw=true)
